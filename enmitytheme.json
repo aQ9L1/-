@@ -48,15 +48,15 @@
     ],
     "BACKGROUND_PRIMARY": [
       "#171717",
-      "#FFFFFF"
+      "#171717"
     ],
     "BACKGROUND_SECONDARY": [
-      "#121212",
-      "#FFFFFF"
+      "#0d0d0d",
+      "#0d0d0d"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#121212",
-      "#FFFFFF"
+      "#0d0d0d",
+      "#0d0d0d"
     ],
     "BACKGROUND_TERTIARY": [
       "#0a0a0a",
