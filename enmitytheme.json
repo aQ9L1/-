@@ -83,8 +83,8 @@
       "#FFFFFF"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#FFFFFF",
-      "#FFFFFF"
+      "#ff0000",
+      "#ff0000"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
       "#000000",
@@ -119,8 +119,8 @@
       "#FFFFFF"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "transparent",
-      "#FFFFFF"
+      "#ff0000",
+      "#ff0000"
     ],
     "CHANNELS_DEFAULT": [
       "#BB000E",
